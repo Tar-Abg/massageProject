@@ -1,0 +1,22 @@
+footer{
+    background-color: rgb(70, 70, 70);
+    box-shadow: 0px -2px 14px 0px rgba(0,0,0,0.7)
+}
+.cssGrid{
+    width: 80vw;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+p{
+    font-family: Rubik;
+    line-height: 21px;
+    font-size: 14px;
+    font-weight: 300;
+}
+.socials{
+    background-color: rgb(115,154,38);
+}
+.mx-auto div{
+    border-width: 2px !important;
+    border-color: rgb(109, 109, 109) !important;
+}

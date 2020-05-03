@@ -1,0 +1,23 @@
+img{
+    width: 95px;
+    height: 95px;
+}   
+p{
+    font-family: Rubik;
+    line-height: 25px;
+    color: rgb(99, 99, 99);
+    text-align: justify;
+}
+
+small{
+    font-size: 14px;
+    font-family: fantasy;
+    color: rgb(87, 87, 87);
+}
+i{
+    color: rgb(115,154,38);
+}
+.cssGrid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
